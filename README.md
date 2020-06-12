@@ -1,2 +1,3 @@
 # os
-OS lab from 3rd sem
+Operating Systems lab for 3rd semester in RV College of engineering.
+All programs based on things needed for the curriculum
