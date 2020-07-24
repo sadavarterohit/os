@@ -7,5 +7,3 @@ Also my personal markdown cheatsheet
 
 **two * on either side for bold**
 hyperlinks use brackets and line break uses two or more spaces at the end of a line
-
-hm
